@@ -29,7 +29,7 @@ This professional business intelligence project demonstrates advanced dashboard 
 [![Looker Studio](https://img.shields.io/badge/📊_View_Interactive_Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/s/igUfnRY4S6M)
 ![Preview](https://img.shields.io/badge/Preview-F97316?style=for-the-badge&logo=google&logoColor=white)
 
-![Dashboard Interactive Preview](https://github.com/Willie-Conway/Google-Looker-Studio-Dashboard-Customer-Analytics/blob/main/Screenshots/Dashboard_Interactive_Preview.gif)
+![Dashboard Interactive Preview](https://github.com/Willie-Conway/Advance-Customer-Loyalty-Analytics-Dashboard/blob/fca3fb55f94f323e216d808d89557e01f461d5fa/Screenshots/Loyalty%20%26%20Sales%20Performance%20Dashcoard%20(1).gif)
 
 ## 📁 Project Structure
 
