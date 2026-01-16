@@ -2,7 +2,7 @@
 
 <p float="left">
     <img src="https://images.credly.com/size/680x680/images/a7c80aaf-4bbb-420b-bbd5-4eb655b8530b/Business_20Intelligence_20BI_20Analyst_20Professional_20Certificate_20V3.png" width="300" />
-    <img src="https://github.com/Willie-Conway/Google-Looker-Studio-Dashboard-Customer-Analytics/blob/main/Screenshots/Looker_Studio_Dashboard_Preview.png?raw=true" width="300" />
+    <img src="Screenshots/Datawise_Analytics.jpg" width="300" />
 </p>
 
 ![Google Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
