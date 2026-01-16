@@ -26,8 +26,7 @@ This professional business intelligence project demonstrates advanced dashboard 
 
 ## 📊 Live Dashboard
 
-[![Looker Studio](https://img.shields.io/badge/📊_View_Interactive_Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/YOUR_DASHBOARD_ID) 
-[![Tableau Public](https://img.shields.io/badge/📈_Alternative_Tableau_Version-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/yourprofile)
+[![Looker Studio](https://img.shields.io/badge/📊_View_Interactive_Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/s/igUfnRY4S6M)
 ![Preview](https://img.shields.io/badge/Preview-F97316?style=for-the-badge&logo=google&logoColor=white)
 
 ![Dashboard Interactive Preview](https://github.com/Willie-Conway/Google-Looker-Studio-Dashboard-Customer-Analytics/blob/main/Screenshots/Dashboard_Interactive_Preview.gif)
