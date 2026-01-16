@@ -20,7 +20,7 @@ This professional business intelligence project demonstrates advanced dashboard 
     <img src="Screenshots/Record_Count_Top_Loyalty_Program_Members .png" width="300" />
     <img src="Screenshots/Pie_Chart_Product_Revenue_Breakdown.png" width="300" />
     <img src="Screenshots/Score_Card_Quantity_Items_Sold.png" width="300" />
-    <img src="Screenshots/Scord_Card_Annual_Sales_Revenue.png" width="300" />
+    <img src="Screenshots/Score_Card_Annual_Sales_Revenue.png" width="300" />
     <img src="Screenshots/Line_Chart_Product_Line_Performance_by_Year.png" width="300" />
 </p>
 
