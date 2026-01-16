@@ -17,7 +17,7 @@
 This professional business intelligence project demonstrates advanced dashboard creation skills using **Google Looker Studio**. As part of the IBM Business Intelligence Analyst certification, I designed and implemented a comprehensive analytics dashboard that transforms raw customer transaction data into actionable business insights for strategic decision-making.
 
 <p float="left">
-    <img src="Screenshots/Dashboard_Product_Performance.png" width="300" />
+    <img src="Screenshots/Re" width="300" />
     <img src="Screenshots/Dashboard_Revenue_Metrics.png" width="300" />
     <img src="Screenshots/Dashboard_Interface_Overview.png" width="300" />
     <img src="Screenshots/Dashboard_Theme_Customization.png" width="300" />
