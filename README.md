@@ -17,11 +17,11 @@
 This professional business intelligence project demonstrates advanced dashboard creation skills using **Google Looker Studio**. As part of the IBM Business Intelligence Analyst certification, I designed and implemented a comprehensive analytics dashboard that transforms raw customer transaction data into actionable business insights for strategic decision-making.
 
 <p float="left">
-    <img src="Screenshots/Re" width="300" />
-    <img src="Screenshots/Dashboard_Revenue_Metrics.png" width="300" />
-    <img src="Screenshots/Dashboard_Interface_Overview.png" width="300" />
-    <img src="Screenshots/Dashboard_Theme_Customization.png" width="300" />
-    <img src="Screenshots/Dashboard_Final_Layout.png" width="300" />
+    <img src="Screenshots/Record_Count_Top_Loyalty_Program_Members .png" width="300" />
+    <img src="Screenshots/Pie_Chart_Product_Revenue_Breakdown.png" width="300" />
+    <img src="Screenshots/Score_Card_Quantity_Items_Sold.png" width="300" />
+    <img src="Screenshots/Scord_Card_Annual_Sales_Revenue.png" width="300" />
+    <img src="Screenshots/Line_Chart_Product_Line_Performance_by_Year.png" width="300" />
 </p>
 
 ## 📊 Live Dashboard
