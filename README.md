@@ -29,34 +29,30 @@ This professional business intelligence project demonstrates advanced dashboard 
 [![Looker Studio](https://img.shields.io/badge/📊_View_Interactive_Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/s/igUfnRY4S6M)
 ![Preview](https://img.shields.io/badge/Preview-F97316?style=for-the-badge&logo=google&logoColor=white)
 
-![Dashboard Interactive Preview](https://github.com/Willie-Conway/Advance-Customer-Loyalty-Analytics-Dashboard/blob/fca3fb55f94f323e216d808d89557e01f461d5fa/Screenshots/Loyalty%20%26%20Sales%20Performance%20Dashcoard%20(1).gif)
+![Dashboard Interactive Preview](Screenshots/Loyalty%20%26%20Sales%20Performance%20Dashcoard%20(1).gif)
 
 ## 📁 Project Structure
 
 ```
-📂 Google-Looker-Studio-Dashboard-Customer-Analytics/
+📂 Customer-Loyalty-Analytics-Dashboard/
 │
-├── 📂 Data/
-│   ├── CustomerLoyaltyProgram.csv    # Primary dataset (1,000+ customer records)
-│   ├── sentiment.csv                  # Customer sentiment analysis data
-│   └── Summer-Olympic-medals-1976-to-2008.csv  # Additional analytics practice
+├── 📂 Data/                             # Primary datasets for analysis
+│   └── CustomerLoyaltyProgram.csv       # 5,162+ customer records with $228M+ revenue
 │
-├── 📂 Screenshots/
-│   ├── Dashboard_Product_Performance.png
-│   ├── Dashboard_Revenue_Metrics.png
-│   ├── Dashboard_Interface_Overview.png
-│   ├── Dashboard_Theme_Customization.png
-│   ├── Dashboard_Final_Layout.png
-│   └── Dashboard_Interactive_Preview.gif
+├── 📂 Screenshots/                      # Dashboard visualization exports
+│   ├── Datawise_Analytics.jpg           # Dashboard header/thumbnail
+│   ├── Loyalty_&_Sales_Performance_Dashboard.png  # Complete dashboard layout
+│   ├── Record_Count_Top_Loyalty_Program_Members .png  # Top 8 customer leaderboard
+│   ├── Pie_Chart_Product_Revenue_Breakdown.png    # Revenue distribution analysis
+│   ├── Score_Card_Annual_Sales_Revenue.png        # $228,741,556 revenue KPI
+│   ├── Score_Card_Quantity_Items_Sold.png         # 396.1K units sold KPI
+│   ├── Line_Chart_Product_Line_Performance_by_Year.png  # Multi-year trend analysis
+│   └── Loyalty & Sales Performance Dashcoard (1).gif    # Animated dashboard demo
 │
-├── 📂 Documentation/
-│   ├── Loyalty_&_Sales_Performance_Dashboard.pdf
-│   ├── Business_Requirements_Document.pdf
-│   └── Technical_Implementation_Guide.pdf
-│
-├── 📜 README.md                         # This documentation
-├── 📜 dashboard_requirements.md         # Project specifications
-└── 📜 Report_Links.txt                  # Live dashboard access
+├── 📄 Loyalty_&_Sales_Performance_Dashboard.pdf   # Complete dashboard documentation
+├── 📄 Report_Links.txt                  # Live dashboard access URLs
+├── 📄 LICENSE                           # Usage rights and permissions
+└── 📄 README.md                         # Project documentation (this file)
 ```
 
 ## 🏆 Key Achievements
@@ -235,9 +231,9 @@ This project represents practical application of skills learned through the **IB
 ## 🔗 Additional Resources
 
 ### **Project Documentation**
-- [Complete Implementation Guide](Documentation/Technical_Implementation_Guide.pdf)
-- [Business Requirements Document](Documentation/Business_Requirements_Document.pdf)
-- [User Manual & Training Materials](Documentation/User_Manual.pdf)
+- [Complete Dashboard Documentation](Loyalty_&_Sales_Performance_Dashboard.pdf)
+- [Live Dashboard Access](https://lookerstudio.google.com/s/igUfnRY4S6M)
+- [Dashboard Report Links](Report_Links.txt)
 
 ### **Learning Resources**
 - [Looker Studio Official Documentation](https://cloud.google.com/looker-studio/docs)
@@ -280,4 +276,3 @@ This project is shared under **Educational and Portfolio Use License**, allowing
 
 *Project Completed: December 2025*  
 *Last Updated: December 2025*  
-*Professional Portfolio Project*
