@@ -249,7 +249,7 @@ This project represents practical application of skills learned through the **IB
 - [IBM Data & AI Community](https://community.ibm.com/community/user/datascience)
 - [Data Visualization GitHub Repository](https://github.com/topics/data-visualization)
 
-## 🙏 Acknowledgments
+## 🙏🏿 Acknowledgments
 
 **Professional Development Sponsors:**
 - **IBM** for the comprehensive Business Intelligence curriculum
